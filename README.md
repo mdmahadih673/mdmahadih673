@@ -1,43 +1,119 @@
-# 💫 Hi 👋, I'm Mahadi Hasan
-**A passionate web developer || 
+# 👋 Hi, I'm Md Mahadi Hasan
 
-Email Me 👉 ✉️ **mdmahadih673@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### 💻 Frontend Developer | JavaScript Learner | Creative Web Enthusiast
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** Java script 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.mahadi.hasan.278404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahadih541) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MdMahadiHasan-eb8xo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmahadih673@gmail.com) 
-
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mdmahadih673&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mdmahadih673&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdmahadih673&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdmahadih673&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdmahadih673&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Md%20Mahadi%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mdmahadih673&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm **Md Mahadi Hasan**, a passionate web developer who enjoys creating modern, responsive and user-friendly websites.
+
+I'm currently focusing on improving my **JavaScript** skills and building real-world projects to strengthen my frontend development skills.
+
+I enjoy learning new technologies, experimenting with creative designs, and turning ideas into functional web experiences.
+
+---
+
+## 🚀 What I'm Currently Doing
+
+* 🌱 Learning and practicing **JavaScript**
+* 💻 Building frontend web projects
+* 🎨 Improving my UI/UX and responsive design skills
+* ⚡ Exploring modern web development technologies
+* 🚀 Working on projects that help me improve through practice
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
+</p>
+
+<p align="center">
+  HTML • CSS • Tailwind CSS • JavaScript • Git • GitHub • VS Code
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:mdmahadih673@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mdmahadih673">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmahadih673&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadih673&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdmahadih673&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmahadih673&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🩸 BloodConect
+
+A web-based project focused on connecting blood donors and people who need blood.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 🧠 LifeOS
+
+A productivity/lifestyle project designed to organize and manage different aspects of everyday life.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 🎓 Academy
+
+An educational website project focused on presenting an attractive and user-friendly learning experience.
+
+**Tech Stack:** HTML • CSS • Tailwind CSS • JavaScript
+
+---
+
+## 📈 My Development Journey
+
+```text
+HTML          ████████████████████  Advanced
+CSS           ██████████████████░░  Advanced
+Tailwind CSS  ███████████████░░░░░  Learning
+JavaScript    ███████████░░░░░░░░░  Learning
+Git & GitHub  ████████████████░░░░  Comfortable
+```
+
+---
+
+<p align="center">
+  <b>💙 Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>“Keep learning. Keep building. Keep improving.”</i>
+</p>
