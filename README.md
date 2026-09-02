@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Md%20Mahadi%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Md%20Mahadi%20Hasan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 👋 Hello, I'm Md Mahadi Hasan
+# 👋 Hi, I'm Md Mahadi Hasan
 
-### 💻 Frontend Developer | JavaScript Learner | Creative Web Enthusiast
+### 💻 Frontend Developer • JavaScript Learner • Creative Developer
 
 <p>
-I love creating modern, responsive and user-friendly web experiences.
+I enjoy building modern, responsive and user-friendly digital experiences.
 </p>
 
 <p>
@@ -15,7 +15,7 @@ I love creating modern, responsive and user-friendly web experiences.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:mdmahadih673@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -25,43 +25,36 @@ I love creating modern, responsive and user-friendly web experiences.
 
 ## 🧑‍💻 About Me
 
-I'm **Md Mahadi Hasan**, a passionate web developer who enjoys creating modern, responsive and visually appealing websites.
+I'm **Md Mahadi Hasan**, a passionate developer who loves turning ideas into useful and visually appealing digital products.
 
-I'm currently focused on improving my **JavaScript** skills and building real-world projects to strengthen my frontend development experience.
+I'm currently focusing on **JavaScript, modern frontend development and real-world project building**. I enjoy experimenting with new technologies, improving my UI/UX skills and continuously learning through practical projects.
 
-I enjoy learning new technologies, experimenting with creative designs, and turning ideas into functional web experiences.
-
----
-
-## 🚀 What I'm Currently Doing
-
-- 🌱 Learning and practicing **JavaScript**
-- 💻 Building real-world frontend projects
-- 🎨 Improving **UI/UX and responsive design**
-- ⚡ Exploring modern web development technologies
-- 🚀 Turning ideas into useful web applications
+> 🚀 **Learn → Build → Improve → Repeat**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Currently Working On
+
+* 🌱 Improving my **JavaScript** skills
+* 💻 Building real-world web applications
+* 🎨 Practicing modern **UI/UX design**
+* ⚡ Exploring modern web technologies
+* 📚 Learning through practical projects
+* 🚀 Working toward becoming a stronger full-stack developer
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
+### Frontend
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react" />
 
-<br>
+### Tools & Development
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,kotlin" />
 
 </div>
 
@@ -95,13 +88,13 @@ I enjoy learning new technologies, experimenting with creative designs, and turn
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdmahadih673&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdmahadih673&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadih673&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadih673&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -110,6 +103,16 @@ I enjoy learning new technologies, experimenting with creative designs, and turn
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=mdmahadih673&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmahadih673&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -125,93 +128,113 @@ I enjoy learning new technologies, experimenting with creative designs, and turn
 
 ---
 
-## 📈 Contribution Graph
+# 📌 Featured Projects
 
-<div align="center">
+## 🧠 LifeOS — Personal Digital Dashboard
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmahadih673&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🩸 BloodConect
-
-A web platform designed to connect blood donors with people who need blood.
+A personal digital dashboard built as an Android application.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" />
 
-**Key Features**
+### ✨ Highlights
 
-- 🩸 Blood donor information
-- 🔎 Donor searching
-- 📱 Responsive interface
-- ⚡ User-friendly experience
+* 📱 Android application
+* 🤖 Google Gemini API integration
+* 🔐 Environment-based API configuration
+* 🛠️ Gradle-based project
+* 📲 Designed for Android devices
+
+🔗 **Repository:**
+https://github.com/mdmahadih673/LifeOS-Personal-Digital-Dashboard-.
 
 ---
 
-### 🧠 LifeOS
+## 🩸 BloodConect
 
-A productivity and life-management web application designed to organize everyday activities and improve productivity.
+A location-based blood donor finder designed to help users discover blood donors and manage blood requests.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,supabase" />
 
-**Key Features**
+### ✨ Highlights
 
-- 📋 Productivity management
-- 📊 Organized information
-- 🎨 Modern user interface
-- 📱 Responsive design
+* 🩸 Blood donor discovery
+* 📍 Location / geolocation support
+* 🔎 Donor searching
+* 📋 Blood request tracking
+* 🔐 Privacy-focused donor profiles
+* 🤖 Gemini API integration
+* ⚡ Vite-powered development
 
----
+🌐 **Live Demo:**
+https://blood-conect-sepia.vercel.app/
 
-### 🎓 Academy
-
-A modern educational website project focused on creating an attractive and user-friendly learning experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `Tailwind CSS` `JavaScript`
-
-**Key Features**
-
-- 🎓 Educational content
-- 🎨 Modern UI
-- 📱 Responsive design
-- ⚡ Clean user experience
+🔗 **Repository:**
+https://github.com/mdmahadih673/BloodConect
 
 ---
 
-## 💡 My Development Journey
+## 🎓 Academy
 
-<div align="center">
+A modern **Learning Management System (LMS)** website project focused on creating a premium educational web experience.
 
-| Technology | Level |
-|------------|-------|
-| HTML | ⭐⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐⭐ |
-| Tailwind CSS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
-| Git & GitHub | ⭐⭐⭐⭐ |
+**Technology**
 
-</div>
+<img src="https://skillicons.dev/icons?i=typescript" />
+
+### ✨ Highlights
+
+* 🎓 Learning Management System concept
+* 🎨 Premium educational interface
+* 📚 Education-focused experience
+* 📱 Responsive web design
+* 🌐 Online deployment
+
+🌐 **Live Demo:**
+https://academy-one-iota.vercel.app/
+
+🔗 **Repository:**
+https://github.com/mdmahadih673/academy-
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Become a stronger Frontend Developer
-- 📚 Master JavaScript
-- ⚛️ Learn React.js
-- 🌐 Build more real-world projects
-- 💼 Create a strong developer portfolio
-- 🤝 Contribute to open-source projects
+<div align="center">
+
+| Goal                            | Progress    |
+| ------------------------------- | ----------- |
+| 🟨 Master JavaScript            | 🔄 Learning |
+| ⚛️ Learn React.js               | 🎯 Next     |
+| 🌐 Build More Projects          | 🚀 Active   |
+| 💼 Improve Portfolio            | 🔄 Active   |
+| 🤝 Contribute to Open Source    | 🎯 Goal     |
+| 🧠 Learn Full-Stack Development | 🎯 Goal     |
+
+</div>
+
+---
+
+## 💡 Developer Mindset
+
+<div align="center">
+
+### **"Don't just learn technology — build with it."**
+
+<br>
+
+💻 Code
+↓
+🧪 Practice
+↓
+🚀 Build
+↓
+📈 Improve
+
+</div>
 
 ---
 
@@ -219,7 +242,7 @@ A modern educational website project focused on creating an attractive and user-
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mdmahadih673&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mdmahadih673&label=PROFILE%20VIEWS&style=for-the-badge"/>
 
 </div>
 
@@ -230,6 +253,10 @@ A modern educational website project focused on creating an attractive and user-
 ### 💙 Thanks for Visiting My Profile!
 
 **Keep Learning • Keep Building • Keep Growing**
+
+<br>
+
+⭐ Feel free to explore my repositories and projects.
 
 </div>
 
