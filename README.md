@@ -53,6 +53,7 @@ I enjoy the full journey of a project: designing the UI, structuring the compone
 - 🎯 Goal: **Professional Full-Stack Developer**
 - ⚡ Love clean UI, clean code, clean architecture
 - 🤝 Open to **internships, junior roles & collaborations**
+- 📫 Reach me at **mdmahadih673@gmail.com**
 
 </td>
 <td width="48%" valign="top">
@@ -167,7 +168,7 @@ Schema design and data modeling with **MongoDB**.
 |---|---|
 | **✨ Features** | Browse workouts • Save favorite exercises • Manage a personal plan |
 | **🛠️ Stack** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![API](https://img.shields.io/badge/API-0066ff?style=flat-square) |
-| **🔗 Links** | [![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&color=0066ff)](https://github.com/mdmahadih673/assienment-6) <!-- [![Live](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=vercel&color=00c6ff)](YOUR_LIVE_LINK) --> |
+| **🔗 Links** | [![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&color=0066ff)](https://github.com/mdmahadih673/assienment-6) |
 
 ### 🧰 Dev Stack Builder &nbsp;·&nbsp; Tech Stack Manager
 
@@ -177,7 +178,7 @@ Schema design and data modeling with **MongoDB**.
 |---|---|
 | **✨ Features** | Explore technologies • Build a custom stack • Clean, fast UI |
 | **🛠️ Stack** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **🔗 Links** | [![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&color=0066ff)](https://github.com/mdmahadih673/assienment-5) <!-- [![Live](https://img.shields.io/badge/Live%20Demo-0d1117?style=flat-square&logo=vercel&color=00c6ff)](YOUR_LIVE_LINK) --> |
+| **🔗 Links** | [![Code](https://img.shields.io/badge/Source%20Code-0d1117?style=flat-square&logo=github&color=0066ff)](https://github.com/mdmahadih673/assienment-5) |
 
 ### 📁 FileFlow &nbsp;·&nbsp; File Organizer *(experimental)*
 
@@ -305,7 +306,7 @@ flowchart LR
 
 **Are you open to work?** Yes, internships, junior roles and collaborations.
 
-**How can I reach you?** Email or GitHub (links below).
+**How can I reach you?** Email (mdmahadih673@gmail.com) or GitHub (links below).
 
 </details>
 
@@ -324,12 +325,7 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/mdmahadih673"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0066ff" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c6ff&color=0066ff" /></a>
-  <!-- Uncomment & edit:
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0066ff" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&color=0066ff" /></a>
-  <a href="YOUR_FACEBOOK_URL"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2&color=0066ff" /></a>
-  -->
+  <a href="mailto:mdmahadih673@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c6ff&color=0066ff" /></a>
 </p>
 
 <p align="center">
