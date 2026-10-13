@@ -68,7 +68,7 @@ My goal is to become a professional full-stack web developer and build useful ap
 A vegetable market website designed with a green theme and a clean user interface.
 
 - **Repository:** [Bazar Dor](https://github.com/mdmahadih673/bazar-dor-main)
-- **Live Demo:** [Visit Website](https://YOUR-BAZAR-DOR-LIVE-URL.vercel.app/)
+- **Live Demo:** [Visit Website](https://assignment-7-flw1.vercel.app/)
 - **Technologies:** Next.js, TypeScript, Tailwind CSS, and other project dependencies.
 
 ### 🧩 Dev Stack Builder
@@ -109,7 +109,8 @@ A web application for exploring web development technologies and building a pers
 </p>
 
 - 📍 **Location:** Rangpur, Bangladesh
-- 📧 **Email:** YOUR-EMAIL@example.com
+- 📧 **Email:** mdmahadih673@gmail.com
+
 
 ---
 
