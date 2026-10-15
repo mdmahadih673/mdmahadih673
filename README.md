@@ -1,8 +1,8 @@
 <!-- BANNER SECTION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdmahadih673/mdmahadih673/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdmahadih673/mdmahadih673/main/light.svg">
-  <img alt="Md Mahadi Hasan Profile Banner" src="https://raw.githubusercontent.com/mdmahadih673/mdmahadih673/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Md Mahadi Hasan Profile Banner" src="dark.svg">
 </picture>
 
 <br/><br/>
